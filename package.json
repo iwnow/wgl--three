@@ -1,0 +1,15 @@
+{
+  "name": "fsets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server -c lite-config.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "three": "^0.76.1"
+  }
+}
